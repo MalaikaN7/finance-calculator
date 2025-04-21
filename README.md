@@ -31,8 +31,13 @@ This project is perfect for those who are new to Python and want to see how codi
      Receive your calculated result.
 
   ## 🖼️ Screenshots
+     Screenshots of Investment process.
+   ![financeInvest](https://github.com/user-attachments/assets/d0c7fa17-ab8c-4c3b-8472-6d9af9e61e81)
 
-  ## 👥 Credits
+     Screenshots of Bond process.
+![financeBond](https://github.com/user-attachments/assets/4302eff7-5ce8-435d-90d5-9671313df5a3)
+
+   ## 👥 Credits
     Created by Malaika Nkosi as part of the HyperionDev bootcamp.
 
      
