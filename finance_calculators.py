@@ -1,5 +1,6 @@
 import math
-
+#Welcome message for the user.
+print("Welcome to the Finance Calculator")
 # Ask the user to choose which calulcation they want, investment or bond.
 investment = input("Please enter the type of calculation you wish to review \
 a-investment or b-bond: ").lower()
