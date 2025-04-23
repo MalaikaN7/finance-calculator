@@ -23,7 +23,7 @@ looking to make c-simple interest or d-compound interest: ")
         print(round(principle_amount * math.pow(1 + (interest/100), time)), 2)
 
 # If the user chose bond this formula calculates the amount\
-# they have to repay based on their house va;ue, interest and time.
+# they have to repay based on their house value, interest and time.
 elif investment == "b":
     house_value = float(input("Please enter your house valuet: "))
     interest = (float(input("Please enter your interest rate: "))/100)/12
